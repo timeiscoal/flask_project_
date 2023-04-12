@@ -94,13 +94,10 @@ Yolov5 커스텀 학습<a href="https://docs.ultralytics.com/yolov5/train_custom
 
 <ul>
     <li> 메인 페이지
-        <ul><li><img src="https://user-images.githubusercontent.com/113073492/231368192-80db0169-7ef6-4f5c-a6df-c955b4d81746.png" /></li></ul>
+        <ul><li><img src="https://user-images.githubusercontent.com/113073492/231368198-2c33a55e-3321-41be-8261-66c0f959b1fb.png" /></li></ul>
     </li>
     <li> 검사 페이지
         <ul><li><img src="https://user-images.githubusercontent.com/113073492/231368197-12a7280c-2e61-4e8f-95d9-d19fad1d606a.png" /></li></ul>
-    </li>
-    <li> 결과 페이지
-        <ul><li><img src="https://user-images.githubusercontent.com/113073492/231368198-2c33a55e-3321-41be-8261-66c0f959b1fb.png" /></li></ul>
     </li>
 </ul>
 
